@@ -1,0 +1,18 @@
+[submodule "ethermint"]
+	path = ethermint
+	url = https://github.com/crypto-org-chain/ethermint.git
+[submodule "cosmos-proto"]
+	path = cosmos-proto
+	url = https://github.com/cosmos/cosmos-proto.git
+[submodule "gogoproto"]
+	path = gogoproto
+	url = https://github.com/cosmos/gogoproto.git
+[submodule "cometbft"]
+	path = cometbft
+	url = https://github.com/cometbft/cometbft.git
+[submodule "api-common-protos"]
+	path = api-common-protos
+	url = https://github.com/googleapis/api-common-protos.git
+[submodule "cosmos-sdk"]
+	path = cosmos-sdk
+	url = https://github.com/cosmos/cosmos-sdk.git
